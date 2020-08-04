@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 ### Contact me:
 <a href="https://www.linkedin.com/in/amarthya-ravi-2b66997b/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=25></a> <a href="https://twitter.com/the_gods_idiot"><img src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png" width=27></a> 
+
+[![Amarthya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amarthya03)](https://github.com/anuraghazra/github-readme-stats)

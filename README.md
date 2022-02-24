@@ -1,3 +1,5 @@
+
+
 <!--
 **Amarthya03/Amarthya03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,20 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="text-align: center">Amarthya Ravi</h1>
-
-## Software Developer at IUDX, IISc | MERN Stack Web Developer
+# Amarthya Ravi
+## Final Year ISE Student at Ramaiah Institute of Technology
 
 ### Skills
+* <img src="https://user-images.githubusercontent.com/3984138/51425579-d3636000-1bd5-11e9-93d6-61672d44b0c0.jpg" width=13> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width=13> MEN Stack Web Development
+* <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" width=13> App Development Using Flutter
+* <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=13> Python
+* <img src="https://cpng.pikpng.com/pngl/s/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png" width=17> Java
+* <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width=13> C
 
--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width=13> React
--   <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" width=13> Node
--   <img src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" width=13> Mongo
--   <img src="https://img.favpng.com/1/17/22/mysql-enterprise-website-development-oracle-corporation-computer-programming-png-favpng-mjByXa3fvHcK6rz9ufu9Dwn8s_t.jpg" width=13> MySQL
--   <img src="https://clouddayscom.files.wordpress.com/2020/07/git-icon-1788c.png" width=13> Git
--   <img src="https://p7.hiclipart.com/preview/1011/30/511/java-runtime-environment-java-development-kit-computer-software-macos-gucci-logo-thumbnail.jpg" width=13> Java
--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width=13> Python
--   <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-c.png" width=13> C
+### Contact me:
+<a href="https://www.linkedin.com/in/amarthya-ravi-2b66997b/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=25></a> <a href="https://twitter.com/the_gods_idiot"><img src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png" width=27></a> 
 
 [![Amarthya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amarthya03&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats)
 <br>

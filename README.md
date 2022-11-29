@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br />
 <img src="./images/psql.png" width=50> <img src="./images/mysql.png" width=60> <img src="./images/mongo.png" width=50> <img src="./images/elastic.png" width=50>
 <br />
-<img src="./images/docker.png" width="60"> <img src="./images/kube.png" width=52> <img src="./images/git.png" width=50> <img src="./images/github.png"width=50>
+<img src="./images/docker.png" width="60"> <img src="./images/kube.png" width=52> <img src="./images/git.png" width=50> <img src="./images/github.png" width=50>
 <br />
 <img src="./images/arch.png" width=50> <img src="./images/code.png" width=50> <img src="./images/bash.png" width=50>
 

@@ -23,29 +23,15 @@ Here are some ideas to get you started:
 
 <br />
 
-<img src="./images/ts.png" width=50>
-<img src="./images/python.svg-183064513" width=42>
-<img src="./images/java.png" width=30>
-<img src="./images/c.png" width=50>
+<img src="./images/ts.png" width=50> <img src="./images/python.svg-183064513" width=42> <img src="./images/java.png" width=30> <img src="./images/c.png" width=50>
 <br />
-<img src="./images/react.png" width=50>
-<img src="./images/node.png" width=55>
-<img src="./images/express.png" width=55>
-<img src="./images/angular.png" width=50>
+<img src="./images/react.png" width=50> <img src="./images/node.png" width=55> <img src="./images/express.png" width=55> <img src="./images/angular.png" width=50>
 <br />
-<img src="./images/psql.png" width=50>
-<img src="./images/mysql.png" width=60>
-<img src="./images/mongo.png" width=50>
-<img src="./images/elastic.png" width=50>
+<img src="./images/psql.png" width=50> <img src="./images/mysql.png" width=60> <img src="./images/mongo.png" width=50> <img src="./images/elastic.png" width=50>
 <br />
-<img src="./images/docker.png" width="60">
-<img src="./images/kube.png" width=52>
-<img src="./images/git.png" width=50>
-<img src="./images/github.png"width=50>
+<img src="./images/docker.png" width="60"> <img src="./images/kube.png" width=52> <img src="./images/git.png" width=50> <img src="./images/github.png"width=50>
 <br />
-<img src="./images/arch.png" width=50>
-<img src="./images/code.png" width=50>
-<img src="./images/bash.png" width=50>
+<img src="./images/arch.png" width=50> <img src="./images/code.png" width=50> <img src="./images/bash.png" width=50>
 
 <br />
 
